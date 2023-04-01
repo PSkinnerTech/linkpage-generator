@@ -21,7 +21,7 @@ export default function Templates() {
                 height={250}
                 alt={`Template number ${index + 1}`}
                 onClick={() => setValue(index)}
-                className={`border border-purple-600 p-2 rounded-lg shadow hover:ring-4 hover:ring-purple-300 transition-all duration-150 ${
+                className={`border border-purple-600 p-2 rounded-lg shadow hover:ring-4 hover:ring-purple-300 transition-all duration-150 h-72 w-full object-cover ${
                   value === index && "ring-purple-300 ring-4"
                 } `}
               />
