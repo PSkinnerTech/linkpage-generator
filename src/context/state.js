@@ -5,6 +5,30 @@ export const StateContext = createContext();
 
 const data = [
   {
+    image: "/templates/color-2.png",
+  },
+  {
+    image: "/templates/color-3.png",
+  },
+  {
+    image: "/templates/color-4.png",
+  },
+  {
+    image: "/templates/color-1.png",
+  },
+  {
+    image: "/templates/color-5.png",
+  },
+  {
+    image: "/templates/color-6.png",
+  },
+  {
+    image: "/templates/color-7.png",
+  },
+  {
+    image: "/templates/color-8.png",
+  },
+  {
     image: "/templates/template-1.jpg",
   },
   {
